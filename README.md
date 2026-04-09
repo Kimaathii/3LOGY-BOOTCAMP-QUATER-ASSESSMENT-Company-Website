@@ -21,31 +21,27 @@ This is my quarter assessment project for the **3LOGY Software Development Bootc
 
 ## 📸 Screenshots
 
-> **Instructions:** Replace the placeholder images below with actual screenshots of your completed pages. Take screenshots at desktop width (~1200px). Save them in `docs/screenshots/`.
+> **Instructions:** Replace the mockup images below with actual screenshots of **your completed pages**. Take screenshots at desktop width (~1200px). Save them in `docs/screenshots/` and update the paths below.
 
 ### Homepage
-![Homepage Screenshot](docs/screenshots/homepage.png)
-<!-- Replace with: ![Homepage](docs/screenshots/homepage.png) -->
+![Homepage Design Mockup](docs/design/mockups/homepage-mockup.png)
+<!-- ✏️ REPLACE with your screenshot: ![Homepage](docs/screenshots/homepage.png) -->
 
 ### About Page
-![About Screenshot](docs/screenshots/about.png)
-<!-- Replace with: ![About](docs/screenshots/about.png) -->
+![About Design Mockup](docs/design/mockups/about-mockup.png)
+<!-- ✏️ REPLACE with your screenshot: ![About](docs/screenshots/about.png) -->
 
 ### Services Page
-![Services Screenshot](docs/screenshots/services.png)
-<!-- Replace with: ![Services](docs/screenshots/services.png) -->
+![Services Design Mockup](docs/design/mockups/services-mockup.png)
+<!-- ✏️ REPLACE with your screenshot: ![Services](docs/screenshots/services.png) -->
 
 ### Portfolio Page
-![Portfolio Screenshot](docs/screenshots/portfolio.png)
-<!-- Replace with: ![Portfolio](docs/screenshots/portfolio.png) -->
+![Portfolio Design Mockup](docs/design/mockups/portfolio-mockup.png)
+<!-- ✏️ REPLACE with your screenshot: ![Portfolio](docs/screenshots/portfolio.png) -->
 
 ### Contact Page
-![Contact Screenshot](docs/screenshots/contact.png)
-<!-- Replace with: ![Contact](docs/screenshots/contact.png) -->
-
-### Mobile View
-![Mobile Screenshot](docs/screenshots/mobile.png)
-<!-- Replace with: ![Mobile](docs/screenshots/mobile.png) -->
+![Contact Design Mockup](docs/design/mockups/contact-mockup.png)
+<!-- ✏️ REPLACE with your screenshot: ![Contact](docs/screenshots/contact.png) -->
 
 ---
 
