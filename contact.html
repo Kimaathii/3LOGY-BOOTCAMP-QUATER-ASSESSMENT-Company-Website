@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Get in touch with NovaTech Solutions. Reach out for custom software, cloud solutions, or a free consultation.">
+    <meta name="author" content="NovaTech Solutions">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/images/icons/favicon.png">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <title>Contact Us — NovaTech Solutions</title>
+</head>
+<body>
+
+    <!-- ========== NAVIGATION ========== -->
+    <header id="main-header">
+        <nav id="main-nav" class="container flex-between">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-text">Nova<span class="text-accent">Tech</span></span>
+            </a>
+
+            <ul id="nav-menu" class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="services.html" class="nav-link">Services</a></li>
+                <li><a href="portfolio.html" class="nav-link">Portfolio</a></li>
+                <li><a href="contact.html" class="nav-link active">Contact</a></li>
+            </ul>
+
+            <button id="menu-toggle" class="menu-toggle" aria-label="Toggle navigation menu">
+                <span class="hamburger"></span>
+            </button>
+        </nav>
+    </header>
+
+
+    <!-- ========== PAGE HERO / BANNER ========== -->
+    <section id="page-hero" class="page-hero">
+        <div class="container">
+            <h1>Contact Us</h1>
+            <p>Have a project in mind? Let's talk about how we can help your business grow.</p>
+        </div>
+    </section>
+
+
+    <!-- ========== CONTACT SECTION ========== -->
+    <section id="contact-section" class="section bg-white">
+        <div class="container">
+            <!-- TODO: Two-column layout — Form on left, Contact info on right -->
+            <!-- On mobile, stack vertically -->
+
+            <!-- ── CONTACT FORM ── -->
+            <div id="contact-form-wrapper">
+                <h2>Send Us a Message</h2>
+                <form id="contact-form" novalidate>
+
+                    <div class="form-group">
+                        <label for="full-name">Full Name <span class="text-accent">*</span></label>
+                        <input type="text" id="full-name" name="fullName" placeholder="Enter your full name" required>
+                        <span class="form-error" id="name-error"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email">Email Address <span class="text-accent">*</span></label>
+                        <input type="email" id="email" name="email" placeholder="Enter your email address" required>
+                        <span class="form-error" id="email-error"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="phone">Phone Number <span class="text-muted">(Optional)</span></label>
+                        <input type="tel" id="phone" name="phone" placeholder="+234 (0) 800 000 0000">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="subject">Subject <span class="text-accent">*</span></label>
+                        <input type="text" id="subject" name="subject" placeholder="What is this about?" required>
+                        <span class="form-error" id="subject-error"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="message">Message <span class="text-accent">*</span></label>
+                        <textarea id="message" name="message" placeholder="Tell us about your project or inquiry..." required></textarea>
+                        <span class="form-error" id="message-error"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Send Message</button>
+                </form>
+            </div>
+
+            <!-- ── CONTACT INFORMATION ── -->
+            <div id="contact-info">
+                <!-- TODO: Display company contact details from docs/design/PROJECT-BRIEF.md -->
+                <!-- Address, Phone, Email, Working Hours -->
+                <!-- Social media links -->
+            </div>
+
+        </div>
+    </section>
+
+
+    <!-- ========== MAP SECTION (Optional) ========== -->
+    <section id="map-section">
+        <!-- TODO (OPTIONAL): Embed a Google Maps iframe or a decorative map image -->
+        <!-- Address: 14 Ademola Adetokunbo Crescent, Wuse 2, Abuja, FCT, Nigeria -->
+    </section>
+
+
+    <!-- ========== FOOTER ========== -->
+    <footer id="main-footer" class="bg-primary">
+        <div class="container">
+            <!-- TODO: Footer content (same as index.html) -->
+        </div>
+    </footer>
+
+
+    <!-- JavaScript -->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
